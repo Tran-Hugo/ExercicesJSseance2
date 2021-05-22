@@ -1,0 +1,2 @@
+# ExercicesJSseance2
+ 
